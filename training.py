@@ -234,7 +234,7 @@ if __name__ == "__main__":
             pair_distances, all_distances = compute_distances(atoms, min_residue_separation)
 
             # Plot distances distribution
-            plot_distances_distribution(pair_distances, all_distances)
+            # plot_distances_distribution(pair_distances, all_distances)
 
             # Compute frequencies and log-ratio scores
             scores = compute_frequencies_and_scores(pair_distances, all_distances, bins)
