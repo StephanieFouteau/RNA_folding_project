@@ -31,13 +31,6 @@ git clone https://github.com/StephanieFouteau/RNA_folding_project.git
 ```
 cd RNA_folding_project
 ```
-
-#### 2.	Install the required dependencies using pip:
-
-```
-pip install
-```
-
 ---
 
 ## Usage
